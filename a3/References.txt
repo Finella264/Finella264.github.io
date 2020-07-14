@@ -1,0 +1,84 @@
+AUDIOVISUAL
+
+
+Sony Pictures Entertainment 2018, THE GIRL IN THE SPIDER'S WEB - Official Trailer (HD), YouTube, 7 June, Sony Pictures Entertainment, viewed 4 February 2019, <https://www.youtube.com/watch?v=XKMSP9OKspQ>.
+
+Walt Disney Animation Studios 2018, Ralph Breaks the Internet | Official Trailer 2, YouTube, 20 September, Walt Disney Animation Studios, viewed 3 February 2019, <https://www.youtube.com/watch?v=T73h5bmD8Dc>.
+
+Warner Bros. Pictures 2018, A STAR IS BORN - Official Trailer 1, YouTube, 6 June, viewed 4 February 2019, <https://www.youtube.com/watch?v=nSbzyEJ8X9E>.
+
+
+REFERENCES
+
+
+Bradley, T 2015, Navigation: highlighting the current page, YouTube, 18 February, Thomas Bradley, viewed 25 January 2019, <https://www.youtube.com/watch?v=l9niaFJh8Gs>.
+
+GentleBen 2005, Script for working out GST,  Whirlpool, forum, 28 May, viewed 13 February 2019, <https://forums.whirlpool.net.au/archive/347583>.
+
+MDN web docs moz://a 2019, isNaN(), Mozilla and individual contributors, viewed 6 February 2019, 
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN>.
+
+OnlineVideoConverter.com 2018, OnlineVideoConverter, OnlineVideoConverter.com, viewed 3 February 2019, <https://www.onlinevideoconverter.com/youtube-converter>. 
+
+Regular expressions 101, n.d., viewed 7 February 2019, <https://regex101.com/>.
+
+Stack Overflow 2019, How do I convert a string to a number in PHP?,
+Stack Exchange Inc., forum, viewed 10 February 2019,
+<https://stackoverflow.com/questions/8529656/how-do-i-convert-a-string-to-a-number-in-php/8529687>.
+
+Stack Overflow 2019, fwrite not creating newline despite using “\n”,
+Stack Exchange Inc., forum, viewed 10 February 2019,
+<https://stackoverflow.com/questions/37197308/fwrite-not-creating-newline-despite-using-n>.
+
+Stack Overflow 2019, Current date + 2 months,
+Stack Exchange Inc., forum, viewed 13 February 2019,
+<https://stackoverflow.com/questions/10586615/current-date-2-months>.
+
+Stack Overflow 2019, PHP table two columns,
+Stack Exchange Inc., forum, viewed 12 February 2019,
+<https://stackoverflow.com/questions/13153263/php-table-two-columns>.
+
+Stack Overflow 2019, Comparing two dates,
+Stack Exchange Inc., forum, viewed 13 February 2019,
+<https://stackoverflow.com/questions/3847736/comparing-two-dates>.
+
+Stack Overflow 2019, Show a number to 2 decimal places,
+Stack Exchange Inc., forum, viewed 13 February 2019,
+<https://stackoverflow.com/questions/4483540/show-a-number-to-2-decimal-places>.
+
+Topjian J 2019, Sanitize and Validate Data with PHP Filters, Envato Pty Ltd., viewed 8 February 2019, <https://code.tutsplus.com/tutorials/sanitize-and-validate-data-with-php-filters--net-2595>.
+
+The PHP Group 2019, Sanitize filters, The PHP Group, viewed 9 February 2019,
+<http://php.net/manual/en/filter.filters.sanitize.php>.
+
+Tech Journey 2018, Split Date Into Year, Month, Day in PHP, Tech Journey, viewed 9 February 2019,
+<https://techjourney.net/split-date-into-year-month-day-in-php/>.
+
+Village Cinemas Australia 2018, Village Cinemas Australia, viewed 3 February 2019, <https://villagecinemas.com.au/>.
+
+w3Schools 2019, Input Text value Property, w3Schools, viewed 21 January 2019, <https://www.w3schools.com/jsref/prop_text_value.asp>.
+
+w3Schools 2019, CSS Navigation Bar, w3Schools, viewed 22 January 2019,
+<https://www.w3schools.com/css/css_navbar.asp>.
+
+w3Schools 2019, How TO - CSS/JS Modal, w3Schools, viewed 26 January 2019,
+<https://www.w3schools.com/howto/howto_css_modals.asp>.
+
+w3Schools 2019, HTML <script> defer Attribute, w3Schools, viewed 27 January 2019, <https://www.w3schools.com/tags/att_script_defer.asp>.
+
+w3Schools 2019, CSS overflow Property, w3Schools, viewed 28 January 2019,
+<https://www.w3schools.com/cssref/pr_pos_overflow.asp>.
+
+w3Schools 2019, HTML Forms, w3Schools, viewed 28 January 2019, <https://www.w3schools.com/html/html_forms>.
+
+w3Schools 2019, onchange Event, w3Schools, viewed 7 February 2019, <https://www.w3schools.com/jsref/event_onchange.asp>.
+
+w3Schools 2019, HTML <input> pattern Attribute, w3Schools, viewed 7 February 2019, <https://www.w3schools.com/tags/att_input_pattern.asp>.
+
+w3Schools 2019, PHP checkdate() Function, w3Schools, viewed 10 February 2019, <https://www.w3schools.com/php/func_date_checkdate.asp>.
+
+w3Schools 2019, HTML <input type="date">, w3Schools, viewed 10 February 2019, <https://www.w3schools.com/tags/att_input_type_date.asp>.
+
+w3Schools 2019, PHP fputcsv() Function, w3Schools, viewed 10 February 2019, 
+<https://www.w3schools.com/php/func_filesystem_fputcsv.asp>.
+
